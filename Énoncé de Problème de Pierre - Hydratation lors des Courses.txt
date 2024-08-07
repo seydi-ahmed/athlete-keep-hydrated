@@ -1,0 +1,15 @@
+Énoncé de Problème
+
+Comment pourrions-nous aider Pierre à mesurer et préparer son hydratation avant une course ?
+
+Pierre est un coureur passionné qui participe régulièrement à des courses. Cependant, il rencontre souvent des difficultés à bien s'hydrater, ce qui impacte ses performances et son bien-être. Les interviews ont révélé que Pierre :
+
+    A du mal à estimer la quantité d'eau nécessaire avant et pendant la course.
+    Éprouve des problèmes de digestion lorsqu'il boit trop d'eau juste avant la course.
+    Est préoccupé par l'équilibre entre l'hydratation et la performance pendant la course.
+
+Extrait d'Insight
+
+"Je dois éviter les problèmes de déshydratation comme la dernière fois." - Nathan
+
+PDF
