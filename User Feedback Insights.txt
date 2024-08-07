@@ -4,11 +4,15 @@
     Antoine: "Une interface intuitive rend l'expérience utilisateur beaucoup plus agréable."
     Guillaume: "Je trouve que la simplicité d'utilisation est cruciale."
 
+    		**********************************************
+
 2) Problèmes de performance et de vitesse
 
     Guillemette: "L'application est parfois lente, surtout pendant les heures de pointe."
     Joe: "Les temps de chargement peuvent être frustrants."
     Nathan: "Des problèmes de performance rendent l'application moins fiable."
+
+    		**********************************************
 
 3) Demande de nouvelles fonctionnalités
 
@@ -16,17 +20,23 @@
     Anaelle: "J'aimerais voir plus de filtres de recherche avancée."
     Antoine: "De nouvelles fonctionnalités amélioreraient l'expérience utilisateur."
 
+    		**********************************************
+
 4) Feedback positif sur le support client
 
     Guillaume: "Le support client est très réactif et utile."
     Guillemette: "J'ai eu une excellente expérience avec le service client."
     Joe: "Le service client m'a beaucoup aidé."
 
+    		**********************************************
+
 5) Clarté des messages d'erreur
 
     Nathan: "Les messages d'erreur devraient être plus clairs et explicatifs."
     William: "Il est difficile de comprendre certains messages d'erreur."
     Anaelle: "Les messages d'erreur doivent être améliorés pour être plus informatifs."
+
+    		**********************************************
 
 6) Processus d'onboarding apprécié
 
