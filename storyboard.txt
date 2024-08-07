@@ -1,0 +1,89 @@
+Étapes à suivre
+
+    Préparation du matériel :
+        Prenez du papier (format A4 ou A3 selon vos préférences).
+        Préparez des crayons, stylos ou marqueurs pour dessiner.
+        Assurez-vous d'avoir une surface de travail propre et bien éclairée.
+
+    Développement de l'idée :
+        Réfléchissez aux différentes étapes de l'utilisation de la solution par Pierre.
+        Décomposez ces étapes en 6 à 12 actions claires et distinctes.
+
+    Création du storyboard :
+        Pour chaque action, dessinez une scène illustrant ce que fait Pierre.
+        Assurez-vous que chaque dessin représente une action spécifique.
+        Sous chaque dessin, écrivez une courte description de l'action, de la pensée de Pierre et de l'émotion principale ressentie.
+        Veillez à ce que le storyboard soit cohérent et facile à suivre.
+
+    Photographier le storyboard :
+        Prenez des photos claires et bien cadrées de chaque page du storyboard.
+        Assurez-vous que le texte est lisible et que les dessins sont bien visibles.
+
+    Compilation des documents :
+        Créez un dossier pour toutes les photos du storyboard.
+        Compressez ce dossier en format ZIP.
+
+    Téléchargement sur GitHub :
+        Connectez-vous à votre compte GitHub.
+        Créez un nouveau repository ou utilisez un repository existant.
+        Téléchargez le fichier ZIP.
+        Ajoutez une description et cliquez sur "Commit changes".
+
+Exemple de structure du fichier ZIP
+
+ProjectTitle_Name_FirstName/
+│
+├── Doe_John_Storyboard_08052024_V1/
+│   ├── Storyboard_Photo1.jpg
+│   ├── Storyboard_Photo2.jpg
+│   ├── ...
+
+Exemple de storyboard
+
+Pour vous donner une idée, voici un exemple de storyboard en 6 étapes pour Pierre utilisant une bouteille intelligente qui l'aide à mesurer et préparer son hydratation avant une course.
+
+    Étape 1 : Préparation :
+        Dessin : Pierre prépare son équipement de course, y compris la bouteille intelligente.
+        Description : Pierre rassemble son équipement de course et prend sa bouteille intelligente.
+        Pensée : "Je dois m'assurer d'avoir tout ce qu'il me faut."
+        Émotion : Confiance
+
+    Étape 2 : Remplissage de la bouteille :
+        Dessin : Pierre remplit la bouteille intelligente avec de l'eau.
+        Description : Pierre utilise l'application connectée pour s'assurer qu'il remplit la bouteille avec la bonne quantité d'eau.
+        Pensée : "Je dois suivre les recommandations pour rester bien hydraté."
+        Émotion : Satisfaction
+
+    Étape 3 : Début de la course :
+        Dessin : Pierre commence à courir avec la bouteille attachée à sa ceinture.
+        Description : Pierre commence sa course en ayant la bouteille à portée de main.
+        Pensée : "C'est parti pour la course !"
+        Émotion : Excitation
+
+    Étape 4 : Hydratation pendant la course :
+        Dessin : Pierre boit de l'eau de sa bouteille intelligente pendant la course.
+        Description : La bouteille intelligente rappelle à Pierre de boire à intervalles réguliers.
+        Pensée : "Je dois rester hydraté pour éviter les crampes."
+        Émotion : Vigilance
+
+    Étape 5 : Fin de la course :
+        Dessin : Pierre termine la course et utilise l'application pour vérifier son niveau d'hydratation.
+        Description : Pierre termine la course et consulte l'application pour voir s'il a bien respecté son plan d'hydratation.
+        Pensée : "Voyons si j'ai bien suivi le plan."
+        Émotion : Satisfaction
+
+    Étape 6 : Analyse post-course :
+        Dessin : Pierre analyse ses performances et son hydratation après la course.
+        Description : L'application lui donne un retour sur sa consommation d'eau et ses performances.
+        Pensée : "Je suis content de mes performances et de ma gestion de l'hydratation."
+        Émotion : Fierté
+
+Mise en œuvre
+
+    Développement de l'idée et storyboard :
+        Suivez les étapes décrites pour développer l'idée en un storyboard complet.
+        Prenez des photos des pages du storyboard.
+
+    Création du fichier ZIP :
+        Placez toutes les photos dans un dossier.
+        Compressez ce dossier en format ZIP.
