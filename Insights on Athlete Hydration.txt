@@ -25,3 +25,5 @@ Insight 4
 Insight 5
 "Une perte de poids de plus de 2% due à la déshydratation peut entraîner une diminution significative de la performance cognitive."
     Title of Article: "Cognitive Effects of Dehydration in Athletes"
+
+Conception du fichier PDF

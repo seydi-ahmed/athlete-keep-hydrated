@@ -1,0 +1,67 @@
+Phase 1 : Préparation (Avant la Course)
+
+    Action : S'inscrire à la course
+        Pensée : "Je veux me lancer un nouveau défi."
+        Émotion : Enthousiasme
+
+    Action : Planifier un programme d'entraînement
+        Pensée : "Je dois suivre un programme structuré pour être prêt."
+        Émotion : Motivation
+
+    Action : Acheter de nouveaux équipements de course
+        Pensée : "Ces nouveaux équipements me permettront de performer au mieux."
+        Émotion : Excitation
+
+    Action : Planifier son hydratation
+        Pensée : "Je dois éviter les problèmes de déshydratation comme la dernière fois."
+        Émotion : Préoccupation
+
+            **********************************************
+
+Phase 2 : La Course (Pendant la Course)
+
+    Action : Commencer la course
+        Pensée : "Je me sens prêt, c'est parti !"
+        Émotion : Confiance
+
+    Action : Gérer son rythme de course
+        Pensée : "Ne pas aller trop vite dès le départ, garder un rythme constant."
+        Émotion : Concentration
+
+    Action : Hydratation pendant la course
+        Pensée : "Boire régulièrement sans exagérer pour éviter les douleurs."
+        Émotion : Vigilance
+
+    Action : Ressentir la fatigue
+        Pensée : "Je suis fatigué mais je dois tenir jusqu'au bout."
+        Émotion : Détermination
+
+            **********************************************
+
+Phase 3 : Réflexion (Après la Course)
+
+    Action : Finir la course
+        Pensée : "Je l'ai fait !"
+        Émotion : Fierté
+
+    Action : Réhydrater et récupérer
+        Pensée : "Il est important de bien récupérer maintenant."
+        Émotion : Soulagement
+
+    Action : Analyser sa performance
+        Pensée : "Que puis-je améliorer pour la prochaine fois ?"
+        Émotion : Réflexion
+
+    Action : Partager son expérience avec ses amis
+        Pensée : "Je veux partager cette réussite avec mes amis."
+        Émotion : Joie
+
+            **********************************************
+
+Opportunités d'amélioration
+
+    Avant la Course : Offrir des conseils personnalisés sur l'hydratation et la nutrition.
+    Pendant la Course : Fournir des rappels sur l'hydratation à des moments clés.
+    Après la Course : Proposer des programmes de récupération et des analyses de performance.
+
+Conception du fichier Figma

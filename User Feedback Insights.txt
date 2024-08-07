@@ -43,3 +43,5 @@
     Antoine: "Le processus d'onboarding est bien fait et aide beaucoup."
     Guillaume: "Les tutoriels de démarrage sont très utiles."
     Guillemette: "Le processus d'intégration est fluide et informatif."
+
+Conception du fichier PDF
