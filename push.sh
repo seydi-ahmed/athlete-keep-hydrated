@@ -2,5 +2,5 @@ git config --global user.email "seydiahmedelcheikh@gmail.com"
 git config --global user.name "mouhameddiouf"
 git config credential.helper store
 git add .
-git commit -m "Ajout du document d'insights utilisateurs"
+git commit -m "txt to pdf"
 git push
