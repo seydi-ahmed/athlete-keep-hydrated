@@ -1,0 +1,19 @@
+Insight 1
+"Les athlètes doivent boire environ 500 ml d'eau deux heures avant une course pour une hydratation optimale."
+    Title of Article: "Optimal Hydration Strategies for Athletes"
+
+Insight 2
+"La déshydratation peut réduire les performances sportives de 30%."
+    Title of Article: "Effects of Dehydration on Athletic Performance"
+
+Insight 3
+"Les boissons isotoniques sont les plus efficaces pour maintenir l'équilibre électrolytique pendant un exercice intense."
+    Title of Article: "Hydration and Electrolyte Balance in Athletes"
+
+Insight 4
+"Il est recommandé de boire 200-300 ml d'eau toutes les 20 minutes pendant une course."
+    Title of Article: "Guidelines for Hydration During Endurance Events"
+
+Insight 5
+"Une perte de poids de plus de 2% due à la déshydratation peut entraîner une diminution significative de la performance cognitive."
+    Title of Article: "Cognitive Effects of Dehydration in Athletes"
