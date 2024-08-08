@@ -1,41 +1,46 @@
-Photo de Pierre
+Title: Pierre personal card
+
+            **********************************************
+
 Photo de Pierre (Insérer une photo représentative ici)
 
-Citation :
-"Je cours plusieurs fois par semaine pour rester en forme, mais j'ai appris à ne pas trop boire avant une course car cela me cause des douleurs à l'estomac."
+            **********************************************
+
+Quote:
+"I run several times a week to stay in shape, but I've learned not to drink too much before a race because it causes stomach pains."
 
             **********************************************
 
-Description de Pierre :
+Description of Pierre:
 
-Pierre a 32 ans, il travaille comme développeur web à Paris. Il est passionné par la course à pied et participe à des courses de temps en temps, ayant couru au moins une course par an mais moins de trois fois par an. Pierre a connu des problèmes de déshydratation, ce qui l'a poussé à adapter ses stratégies d'hydratation.
-
-            **********************************************
-
-Objectifs :
-
-    Participer régulièrement à des courses pour améliorer ses performances.
-    Trouver un équilibre entre hydratation adéquate et éviter les douleurs d'estomac pendant les courses.
+Pierre is 32 years old and works as a web developer in Paris. He is passionate about running and participates in races occasionally,
+running at least one race a year but less than three times a year. Pierre has experienced dehydration issues,
+which has led him to adapt his hydration strategies.
 
             **********************************************
 
-Habitudes :
+Goals:
 
-    Court plusieurs fois par semaine, généralement en soirée après le travail.
-    Prépare ses courses en planifiant ses repas et son hydratation à l'avance.
-
-            **********************************************
-
-Frustrations :
-
-    Difficulté à gérer l'hydratation sans ressentir de gêne pendant les courses.
-    Manque de conseils personnalisés sur l'hydratation spécifique à son corps et à son niveau d'activité.
+    Participate regularly in races to improve his performance.
+    Find a balance between adequate hydration and avoiding stomach discomfort during races.
 
             **********************************************
 
-Insights :
+Habits:
 
-    Problèmes de déshydratation : Comme Joe et Nathan, Pierre a déjà fait face à des situations de déshydratation lors de courses, ce qui a affecté ses performances.
-    Préparation des courses : Guillaume et Anaelle partagent des stratégies similaires de préparation pour éviter les douleurs d'estomac liées à l'hydratation.
+    Runs several times a week, usually in the evening after work.
+    Prepares for races by planning his meals and hydration in advance.
 
-Conception du fichier PDF
+            **********************************************
+
+Frustrations:
+
+    Difficulty managing hydration without experiencing discomfort during races.
+    Lack of personalized advice on hydration specific to his body and activity level.
+
+            **********************************************
+
+Insights:
+
+    Dehydration Issues: Like Joe and Nathan, Pierre has faced dehydration during races, which has affected his performance.
+    Race Preparation: Guillaume and Anaelle share similar preparation strategies to avoid stomach pains related to hydration.
