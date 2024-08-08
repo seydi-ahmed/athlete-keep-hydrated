@@ -1,67 +1,69 @@
-Phase 1 : Préparation (Avant la Course)
-
-    Action : S'inscrire à la course
-        Pensée : "Je veux me lancer un nouveau défi."
-        Émotion : Enthousiasme
-
-    Action : Planifier un programme d'entraînement
-        Pensée : "Je dois suivre un programme structuré pour être prêt."
-        Émotion : Motivation
-
-    Action : Acheter de nouveaux équipements de course
-        Pensée : "Ces nouveaux équipements me permettront de performer au mieux."
-        Émotion : Excitation
-
-    Action : Planifier son hydratation
-        Pensée : "Je dois éviter les problèmes de déshydratation comme la dernière fois."
-        Émotion : Préoccupation
+Title: User Journey
 
             **********************************************
 
-Phase 2 : La Course (Pendant la Course)
+Phase 1: Preparation (Before the Race)
 
-    Action : Commencer la course
-        Pensée : "Je me sens prêt, c'est parti !"
-        Émotion : Confiance
+    Action: Register for the race
+    Thought: "I want to challenge myself."
+    Emotion: Excitement
 
-    Action : Gérer son rythme de course
-        Pensée : "Ne pas aller trop vite dès le départ, garder un rythme constant."
-        Émotion : Concentration
+    Action: Plan a training program
+    Thought: "I need to follow a structured plan to be ready."
+    Emotion: Motivation
 
-    Action : Hydratation pendant la course
-        Pensée : "Boire régulièrement sans exagérer pour éviter les douleurs."
-        Émotion : Vigilance
+    Action: Purchase new running gear
+    Thought: "This new gear will help me perform at my best."
+    Emotion: Excitement
 
-    Action : Ressentir la fatigue
-        Pensée : "Je suis fatigué mais je dois tenir jusqu'au bout."
-        Émotion : Détermination
-
-            **********************************************
-
-Phase 3 : Réflexion (Après la Course)
-
-    Action : Finir la course
-        Pensée : "Je l'ai fait !"
-        Émotion : Fierté
-
-    Action : Réhydrater et récupérer
-        Pensée : "Il est important de bien récupérer maintenant."
-        Émotion : Soulagement
-
-    Action : Analyser sa performance
-        Pensée : "Que puis-je améliorer pour la prochaine fois ?"
-        Émotion : Réflexion
-
-    Action : Partager son expérience avec ses amis
-        Pensée : "Je veux partager cette réussite avec mes amis."
-        Émotion : Joie
+    Action: Plan hydration
+    Thought: "I need to avoid dehydration problems like last time."
+    Emotion: Concern
 
             **********************************************
 
-Opportunités d'amélioration
+Phase 2: The Race (During the Race)
 
-    Avant la Course : Offrir des conseils personnalisés sur l'hydratation et la nutrition.
-    Pendant la Course : Fournir des rappels sur l'hydratation à des moments clés.
-    Après la Course : Proposer des programmes de récupération et des analyses de performance.
+    Action: Start the race
+    Thought: "I feel ready, let's go!"
+    Emotion: Confidence
 
-Conception du fichier Figma
+    Action: Manage race pace
+    Thought: "Don't go too fast at the start, keep a steady pace."
+    Emotion: Focus
+
+    Action: Hydrate during the race
+    Thought: "Drink regularly without overdoing it to avoid cramps."
+    Emotion: Vigilance
+
+    Action: Feel fatigue
+    Thought: "I'm tired, but I must push through."
+    Emotion: Determination
+
+            **********************************************
+
+Phase 3: Reflection (After the Race)
+
+    Action: Finish the race
+    Thought: "I did it!"
+    Emotion: Pride
+
+    Action: Rehydrate and recover
+    Thought: "It's important to recover well now."
+    Emotion: Relief
+
+    Action: Analyze performance
+    Thought: "What can I improve for next time?"
+    Emotion: Reflection
+
+    Action: Share the experience with friends
+    Thought: "I want to share this success with my friends."
+    Emotion: Joy
+
+            **********************************************
+
+Opportunities for Improvement
+
+    Before the Race: Offer personalized advice on hydration and nutrition.
+    During the Race: Provide hydration reminders at key moments.
+    After the Race: Offer recovery programs and performance analysis.

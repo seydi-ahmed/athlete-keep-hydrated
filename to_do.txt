@@ -1,6 +1,8 @@
-1) txt to pdf
-
-2) personna:
+1) personna:
 pas encore de photo pour pierre
 
-3) 
+2) txt to pdf:
+analytics, persona, problem statement, user interview
+
+3) user journey:
+txt to figma
