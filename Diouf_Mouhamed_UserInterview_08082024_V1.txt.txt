@@ -1,0 +1,49 @@
+Title: User Feedback Insights
+
+            *******************************************
+
+1) Importance of an Intuitive User Interface:
+
+    Anaelle: "I really appreciate when the interface is clear and easy to use."
+    Antoine: "An intuitive interface makes the user experience much more enjoyable."
+    Guillaume: "I find that simplicity of use is crucial."
+
+            *******************************************
+
+2) Performance and Speed Issues:
+
+    Guillemette: "The app is sometimes slow, especially during peak hours."
+    Joe: "Loading times can be frustrating."
+    Nathan: "Performance issues make the app less reliable."
+
+            *******************************************
+
+3) Demand for New Features:
+
+    William: "Adding options like dark mode would be great."
+    Anaelle: "I’d like to see more advanced search filters."
+    Antoine: "New features would enhance the user experience."
+
+            *******************************************
+
+4) Positive Feedback on Customer Support:
+
+    Guillaume: "Customer support is very responsive and helpful."
+    Guillemette: "I had an excellent experience with customer service."
+    Joe: "Customer service has been very helpful."
+
+            *******************************************
+
+5) Clarity of Error Messages:
+
+    Nathan: "Error messages should be clearer and more explanatory."
+    William: "It’s difficult to understand some error messages."
+    Anaelle: "Error messages need to be improved to be more informative."
+
+            *******************************************
+
+6) Appreciation of the Onboarding Process:
+
+    Antoine: "The onboarding process is well done and very helpful."
+    Guillaume: "The startup tutorials are very useful."
+    Guillemette: "The onboarding process is smooth and informative."
