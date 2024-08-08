@@ -1,15 +1,19 @@
-Énoncé de Problème
+Title: Problem Statement
 
-Comment pourrions-nous aider Pierre à mesurer et préparer son hydratation avant une course ?
+            ***********************************************
 
-Pierre est un coureur passionné qui participe régulièrement à des courses. Cependant, il rencontre souvent des difficultés à bien s'hydrater, ce qui impacte ses performances et son bien-être. Les interviews ont révélé que Pierre :
+1) How might we help Pierre measure and prepare his hydration before a race?
 
-    A du mal à estimer la quantité d'eau nécessaire avant et pendant la course.
-    Éprouve des problèmes de digestion lorsqu'il boit trop d'eau juste avant la course.
-    Est préoccupé par l'équilibre entre l'hydratation et la performance pendant la course.
+Pierre is an enthusiastic runner who regularly participates in races.
+However, he often struggles with proper hydration, which impacts his performance and well-being.
+The interviews revealed that Pierre:
 
-Extrait d'Insight
+    a) Struggles to estimate the right amount of water needed before and during the race.
+    b) Experiences digestive issues when drinking too much water right before the race.
+    c) Is concerned about balancing hydration and performance during the race.
 
-"Je dois éviter les problèmes de déshydratation comme la dernière fois." - Nathan
+            ***********************************************
 
-PDF
+2) Insight Extract
+
+"I need to avoid dehydration issues like last time." - Nathan
