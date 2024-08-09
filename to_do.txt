@@ -4,5 +4,5 @@ pas encore de photo pour pierre
 2) txt to pdf:
 analytics, persona, problem statement, user interview
 
-3) user journey:
-txt to figma
+3) txt to figma
+user journey
