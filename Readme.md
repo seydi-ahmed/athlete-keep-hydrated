@@ -9,31 +9,31 @@ The project deliverables include the following:
 
 ### User Feedback Insights (PDF)
         A summary of the key insights extracted from user interviews, highlighting common experiences and issues faced by runners.
-        Filename: Diouf_Mouhamed_UserInterview_08082024_V1.pdf
+        Filename: Diouf_Mouhamed_UserInterview_08082024_V2.pdf
 
 ### Analytics Insights (PDF)
         Key figures and insights related to hydration in athletes, justified with quotes and references to articles.
-        Filename: Diouf_Mouhamed_Analytics_08082024_V1.pdf
+        Filename: Diouf_Mouhamed_Analytics_08082024_V2.pdf
 
 ### Pierre's Persona (PDF)
         A detailed persona card for Pierre, including his goals, habits, frustrations, and insights drawn from the user interviews.
-        Filename: Diouf_Mouhamed_Persona_08082024_V1.pdf
+        Filename: Diouf_Mouhamed_Persona_08082024_V2.pdf
 
 ### User Journey (Figma)
         A visual representation of Pierre's journey before, during, and after a race, including his actions, thoughts, and emotions at each stage.
-        Filename: Diouf_Mouhamed_UserJourney_08082024_V1.fig
+        Filename: Diouf_Mouhamed_UserJourney_08082024_V2.fig
 
 ### Problem Statement (PDF)
         A problem statement derived from Pierre's persona and user journey, focusing on his hydration challenges.
-        Filename: Diouf_Mouhamed_ProblemStatement_08082024_V1.pdf
+        Filename: Diouf_Mouhamed_ProblemStatement_08082024_V2.pdf
 
 ### Ideation Session (ZIP)
         Pictures from the ideation session, along with a board of ideas and the main selected solution to address Pierre's hydration issues.
-        Filename: Diouf_Mouhamed_Ideation_08082024_V1.zip
+        Filename: Diouf_Mouhamed_Ideation_08082024_V2.zip
 
 ### Storyboard (ZIP)
         A series of drawings depicting the storyboard of Pierre using the selected solution, with 6 to 12 steps illustrating the process.
-        Filename: Diouf_Mouhamed_Storyboard_08082024_V1.zip
+        Filename: Diouf_Mouhamed_Storyboard_08082024_V2.zip
 
 ## Project Structure
 The project files are organized as follows:
@@ -44,19 +44,19 @@ Pierre_Hydration_Project/
 │
 ├── Push.sh
 │
-├── Diouf_Mouhamed_UserInterview_08082024_V1.pdf
+├── Diouf_Mouhamed_UserInterview_08082024_V2.pdf
 │
-├── Diouf_Mouhamed_Analytics_08082024_V1.pdf
+├── Diouf_Mouhamed_Analytics_08082024_V2.pdf
 │
-├── Diouf_Mouhamed_Persona_08082024_V1.pdf
+├── Diouf_Mouhamed_Persona_08082024_V2.pdf
 │
-├── Diouf_Mouhamed_UserJourney_08082024_V1.fig
+├── Diouf_Mouhamed_UserJourney_08082024_V2.fig
 │
-├── Diouf_Mouhamed_ProblemStatement_08082024_V1.pdf
+├── Diouf_Mouhamed_ProblemStatement_08082024_V2.pdf
 │
-├── Diouf_Mouhamed_Ideation_08082024_V1.zip
+├── Diouf_Mouhamed_Ideation_08082024_V2.zip
 │
-└── Diouf_Mouhamed_Storyboard_08082024_V1.zip
+└── Diouf_Mouhamed_Storyboard_08082024_V2.zip
 ```
 
 ## How to Use
