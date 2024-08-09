@@ -1,30 +1,30 @@
 Title: Analytics
 
-            **********************************************
+                      **********************************************
 
 Insight 1
 "Athletes should drink about 500 ml of water two hours before a race for optimal hydration."
 Title of Article: "Optimal Hydration Strategies for Athletes"
 
-            **********************************************
+                      **********************************************
 
 Insight 2
 "Dehydration can reduce athletic performance by 30%."
 Title of Article: "Effects of Dehydration on Athletic Performance"
 
-            **********************************************
+                      **********************************************
 
 Insight 3
 "Isotonic drinks are the most effective in maintaining electrolyte balance during intense exercise."
 Title of Article: "Hydration and Electrolyte Balance in Athletes"
 
-            **********************************************
+                      **********************************************
 
 Insight 4
 "It is recommended to drink 200-300 ml of water every 20 minutes during a race."
 Title of Article: "Guidelines for Hydration During Endurance Events"
 
-            **********************************************
+                      **********************************************
 
 Insight 5
 "A weight loss of more than 2% due to dehydration can lead to a significant decrease in cognitive performance."

@@ -1,6 +1,6 @@
 Title: User Feedback Insights
 
-            *******************************************
+                      *******************************************
 
 1) Importance of an Intuitive User Interface:
 
@@ -8,7 +8,7 @@ Title: User Feedback Insights
     Antoine: "An intuitive interface makes the user experience much more enjoyable."
     Guillaume: "I find that simplicity of use is crucial."
 
-            *******************************************
+                      *******************************************
 
 2) Performance and Speed Issues:
 
@@ -16,7 +16,7 @@ Title: User Feedback Insights
     Joe: "Loading times can be frustrating."
     Nathan: "Performance issues make the app less reliable."
 
-            *******************************************
+                      *******************************************
 
 3) Demand for New Features:
 
@@ -24,7 +24,7 @@ Title: User Feedback Insights
     Anaelle: "I’d like to see more advanced search filters."
     Antoine: "New features would enhance the user experience."
 
-            *******************************************
+                      *******************************************
 
 4) Positive Feedback on Customer Support:
 
@@ -32,7 +32,7 @@ Title: User Feedback Insights
     Guillemette: "I had an excellent experience with customer service."
     Joe: "Customer service has been very helpful."
 
-            *******************************************
+                      *******************************************
 
 5) Clarity of Error Messages:
 
@@ -40,7 +40,7 @@ Title: User Feedback Insights
     William: "It’s difficult to understand some error messages."
     Anaelle: "Error messages need to be improved to be more informative."
 
-            *******************************************
+                      *******************************************
 
 6) Appreciation of the Onboarding Process:
 

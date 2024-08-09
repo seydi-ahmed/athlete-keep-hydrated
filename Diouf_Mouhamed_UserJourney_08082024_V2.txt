@@ -1,6 +1,6 @@
 Title: User Journey
 
-            **********************************************
+                      **********************************************
 
 Phase 1: Preparation (Before the Race)
 
@@ -20,7 +20,7 @@ Phase 1: Preparation (Before the Race)
     Thought: "I need to avoid dehydration problems like last time."
     Emotion: Concern
 
-            **********************************************
+                      **********************************************
 
 Phase 2: The Race (During the Race)
 
@@ -40,7 +40,7 @@ Phase 2: The Race (During the Race)
     Thought: "I'm tired, but I must push through."
     Emotion: Determination
 
-            **********************************************
+                      **********************************************
 
 Phase 3: Reflection (After the Race)
 
@@ -60,7 +60,7 @@ Phase 3: Reflection (After the Race)
     Thought: "I want to share this success with my friends."
     Emotion: Joy
 
-            **********************************************
+                      **********************************************
 
 Opportunities for Improvement
 

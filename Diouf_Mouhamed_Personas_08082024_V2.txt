@@ -1,15 +1,15 @@
 Title: Pierre personal card
 
-            **********************************************
+                      **********************************************
 
 Photo de Pierre (Insérer une photo représentative ici)
 
-            **********************************************
+                      **********************************************
 
 Quote:
 "I run several times a week to stay in shape, but I've learned not to drink too much before a race because it causes stomach pains."
 
-            **********************************************
+                      **********************************************
 
 Description of Pierre:
 
@@ -17,28 +17,28 @@ Pierre is 32 years old and works as a web developer in Paris. He is passionate a
 running at least one race a year but less than three times a year. Pierre has experienced dehydration issues,
 which has led him to adapt his hydration strategies.
 
-            **********************************************
+                      **********************************************
 
 Goals:
 
     Participate regularly in races to improve his performance.
     Find a balance between adequate hydration and avoiding stomach discomfort during races.
 
-            **********************************************
+                      **********************************************
 
 Habits:
 
     Runs several times a week, usually in the evening after work.
     Prepares for races by planning his meals and hydration in advance.
 
-            **********************************************
+                      **********************************************
 
 Frustrations:
 
     Difficulty managing hydration without experiencing discomfort during races.
     Lack of personalized advice on hydration specific to his body and activity level.
 
-            **********************************************
+                      **********************************************
 
 Insights:
 
