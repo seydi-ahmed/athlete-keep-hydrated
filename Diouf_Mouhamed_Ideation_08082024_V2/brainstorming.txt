@@ -49,9 +49,9 @@ Pour cette tâche, vous allez organiser une session de brainstorming et créer u
 
 Exemple de structure du fichier ZIP
 
-ProjectTitle_Name_FirstName/
+athlete-keep-hydrated/
 │
-├── Doe_John_BrainstormingSession_08052024_V1/
+├── Diouf_Mouhamed_Ideation_08082024_V2/
 │   ├── Photos/
 │   │   ├── photo1.jpg
 │   │   ├── photo2.jpg

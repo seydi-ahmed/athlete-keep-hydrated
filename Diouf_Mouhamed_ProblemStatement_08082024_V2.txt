@@ -2,18 +2,18 @@ Title: Problem Statement
 
                       ***********************************************
 
-1) How might we help Pierre measure and prepare his hydration before a race?
+How might we help Pierre measure and prepare his hydration before a race?
 
 Pierre is an enthusiastic runner who regularly participates in races.
 However, he often struggles with proper hydration, which impacts his performance and well-being.
 The interviews revealed that Pierre:
 
-    a) Struggles to estimate the right amount of water needed before and during the race.
-    b) Experiences digestive issues when drinking too much water right before the race.
-    c) Is concerned about balancing hydration and performance during the race.
+    1) Struggles to estimate the right amount of water needed before and during the race.
+    2) Experiences digestive issues when drinking too much water right before the race.
+    3) Is concerned about balancing hydration and performance during the race.
 
                       ***********************************************
 
-2) Insight Extract
+Insight Extract
 
 "I need to avoid dehydration issues like last time." - Nathan

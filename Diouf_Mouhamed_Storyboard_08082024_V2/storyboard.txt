@@ -31,16 +31,17 @@
 
 Exemple de structure du fichier ZIP
 
-ProjectTitle_Name_FirstName/
+athlete-keep-hydrated/
 │
-├── Doe_John_Storyboard_08052024_V1/
+├── Diouf_Mouhamed_Storyboard_08082024_V2/
 │   ├── Storyboard_Photo1.jpg
 │   ├── Storyboard_Photo2.jpg
-│   ├── ...
+│   ├── Storyboard_Photo3.jpg
 
 Exemple de storyboard
 
-Pour vous donner une idée, voici un exemple de storyboard en 6 étapes pour Pierre utilisant une bouteille intelligente qui l'aide à mesurer et préparer son hydratation avant une course.
+Pour vous donner une idée, voici un exemple de storyboard en 6 étapes pour Pierre utilisant une bouteille intelligente
+qui l'aide à mesurer et préparer son hydratation avant une course.
 
     Étape 1 : Préparation :
         Dessin : Pierre prépare son équipement de course, y compris la bouteille intelligente.
