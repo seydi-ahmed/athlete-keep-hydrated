@@ -1,18 +1,3 @@
-1) personna:
-pas encore de photo pour pierre
-
-2) txt to pdf:
-analytics, persona, problem statement, user interview
-
-3) txt to figma
-user journey
-
-            ************************************
-
-TO DO:
-    monday: txt to pdf
-    thusday: txt to pdf
-    wednesday: txt to figma
-    thursday: brainstorming
-    friday: storyboard
+1. brainstorming
+2. storyboard
     

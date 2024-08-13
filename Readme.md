@@ -21,7 +21,7 @@ The project deliverables include the following:
 
 ### User Journey (Figma)
         A visual representation of Pierre's journey before, during, and after a race, including his actions, thoughts, and emotions at each stage.
-        Filename: Diouf_Mouhamed_UserJourney_08082024_V2.fig
+        Filename: Diouf_Mouhamed_UserJourney_08082024_V2.jpg
 
 ### Problem Statement (PDF)
         A problem statement derived from Pierre's persona and user journey, focusing on his hydration challenges.
