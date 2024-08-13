@@ -15,3 +15,4 @@ TO DO:
     wednesday: txt to figma
     thursday: brainstorming
     friday: storyboard
+    
