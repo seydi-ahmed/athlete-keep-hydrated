@@ -1,3 +1,39 @@
 1. brainstorming
 2. storyboard
     
+je veux 6 images(en dessin).
+    dessin 1 : Préparation :
+        Dessin : Pierre prépare son équipement de course, y compris la bouteille intelligente.
+        Description : Pierre rassemble son équipement de course et prend sa bouteille intelligente.
+        Pensée : "Je dois m'assurer d'avoir tout ce qu'il me faut."
+        Émotion : Confiance
+
+    dessin 2 : Remplissage de la bouteille :
+        Dessin : Pierre remplit la bouteille intelligente avec de l'eau.
+        Description : Pierre utilise l'application connectée pour s'assurer qu'il remplit la bouteille avec la bonne quantité d'eau.
+        Pensée : "Je dois suivre les recommandations pour rester bien hydraté."
+        Émotion : Satisfaction
+
+    dessin 3 : Début de la course :
+        Dessin : Pierre commence à courir avec la bouteille attachée à sa ceinture.
+        Description : Pierre commence sa course en ayant la bouteille à portée de main.
+        Pensée : "C'est parti pour la course !"
+        Émotion : Excitation
+
+    dessin 4 : Hydratation pendant la course :
+        Dessin : Pierre boit de l'eau de sa bouteille intelligente pendant la course.
+        Description : La bouteille intelligente rappelle à Pierre de boire à intervalles réguliers.
+        Pensée : "Je dois rester hydraté pour éviter les crampes."
+        Émotion : Vigilance
+
+    dessin 5 : Fin de la course :
+        Dessin : Pierre termine la course et utilise l'application pour vérifier son niveau d'hydratation.
+        Description : Pierre termine la course et consulte l'application pour voir s'il a bien respecté son plan d'hydratation.
+        Pensée : "Voyons si j'ai bien suivi le plan."
+        Émotion : Satisfaction
+
+    dessin 6 : Analyse post-course :
+        Dessin : Pierre analyse ses performances et son hydratation après la course.
+        Description : L'application lui donne un retour sur sa consommation d'eau et ses performances.
+        Pensée : "Je suis content de mes performances et de ma gestion de l'hydratation."
+        Émotion : Fierté
