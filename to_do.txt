@@ -1,18 +1,5 @@
-6 dessins du jeune pierre
-dessin1:Préparation:
-Description:Pierre rassemble son équipement de course et prend sa bouteille.
-
-dessin2:Remplissage de la bouteille:
-Description:Pierre utilise son téléphone et remplit sa bouteille.
-
-dessin3:Début:
-Description:Pierre commence sa course avec la bouteille en main.
-
-dessin4:Hydratation:
-Description:La bouteille rappelle à Pierre de boire.
-
-dessin5:Fin:
-Description:Pierre termine la course et consulte son téléphone.
-
-dessin6:Analyse:
-Description:le téléphone lui donne un retour sur sa consommation d'eau.
+1) brainstorming
+    a) prendre des photos de talents
+    b) écrire ls possibilités sur des autocollants (15 idées)
+    c) créer un tableau avec toutes les idées (les autocollants)
+    d) prendre une idée principale
