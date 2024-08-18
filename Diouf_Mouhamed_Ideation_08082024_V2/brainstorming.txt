@@ -90,7 +90,10 @@ Mise en œuvre
     14) Si Pierre était toujours en retard : La bouteille devrait être prête instantanément, peut-être pré-remplie ou toujours disponible.
     15) Si Pierre était malhonnête : Il pourrait tricher sur ses niveaux d'hydratation, mais l'application aurait besoin de vérifications constantes.
 
-Idée principale:
-Adapter la technologie pour répondre aux besoins spécifiques de chaque utilisateur.
-L'important est de personnaliser l'expérience de Pierre en fonction de ses capacités,
-ses limites et ses particularités pour garantir une hydratation efficace et simple, quelles que soient les circonstances.
+Idée principale pour résoudre le problème :
+
+Créer une solution d'hydratation universelle et adaptative qui s'ajuste automatiquement aux besoins, capacités et comportements de l'utilisateur.
+Cela inclurait une bouteille intelligente intégrant une technologie flexible :
+elle pourrait s'adapter à différents handicaps (visuels, auditifs, cognitifs), tranches d'âge, et modes de vie (maladresse, oublis, mobilité limitée).
+L'intelligence artificielle et des capteurs ajusteraient les rappels,
+le suivi, et les recommandations pour que chaque utilisateur reste hydraté, peu importe ses particularités.
