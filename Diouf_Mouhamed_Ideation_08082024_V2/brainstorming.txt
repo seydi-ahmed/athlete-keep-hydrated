@@ -62,11 +62,35 @@ athlete-keep-hydrated/
 
 Mise en œuvre
 
-    Conduite de la session et collecte des idées :
+    Conduite de la session et collecte des idées:
         Prenez des photos pendant la session.
         Notez toutes les idées sur le tableau (Miro ou Figma).
         Mettez en évidence l'idée principale.
 
-    Création du fichier ZIP :
+    Création du fichier ZIP:
         Placez toutes les photos et les documents dans un dossier.
         Compressez le dossier en format ZIP.
+
+
+*****************************************************************************************************
+
+    1) Si Pierre était aveugle : Il utiliserait une application audio pour suivre son hydratation pendant la course.
+    2) Si Pierre était un oiseau : Il boirait en vol et n'aurait pas besoin d'une bouteille d'eau.
+    3) Si Pierre était milliardaire : Il utiliserait une bouteille intelligente ultra-avancée avec des assistants personnels pour suivre son hydratation.
+    4) Si Pierre avait un jumeau toujours avec lui : Ils partageraient la gestion de l'hydratation, l'un surveillant l'autre.
+    5) Si Pierre avait 5 ans : Un parent ou tuteur suivrait son hydratation pour lui, utilisant une version simplifiée de la bouteille.
+    6) Si Pierre avait 5 bras : Il transporterait plusieurs bouteilles à la fois, mais l'application gérerait toujours son hydratation.
+    7) Si Pierre avait 105 ans : Il aurait besoin d'une bouteille plus facile à utiliser, avec des rappels fréquents adaptés à sa santé.
+    8) Si Pierre était très maladroit : La bouteille devrait être incassable et facile à utiliser pour éviter les accidents.
+    9) Si Pierre était très oublieux (et perdait la mémoire toutes les 5 minutes) : La bouteille devrait avoir des rappels sonores ou visuels fréquents pour l'hydrater.
+    10) Si Pierre était sourd : La bouteille intelligente utiliserait des signaux lumineux pour le rappeler à boire.
+    11) Si Pierre était une tortue : L'hydratation se ferait par des moyens naturels, l'eau provenant de son environnement.
+    12) Si Pierre était nu : L'accent serait mis sur une ceinture discrète et légère pour transporter la bouteille.
+    13) Si Pierre ne pouvait pas s'arrêter de parler 24/7 : L'application et la bouteille auraient des notifications silencieuses pour ne pas l'interrompre.
+    14) Si Pierre était toujours en retard : La bouteille devrait être prête instantanément, peut-être pré-remplie ou toujours disponible.
+    15) Si Pierre était malhonnête : Il pourrait tricher sur ses niveaux d'hydratation, mais l'application aurait besoin de vérifications constantes.
+
+Idée principale:
+Adapter la technologie pour répondre aux besoins spécifiques de chaque utilisateur.
+L'important est de personnaliser l'expérience de Pierre en fonction de ses capacités,
+ses limites et ses particularités pour garantir une hydratation efficace et simple, quelles que soient les circonstances.
